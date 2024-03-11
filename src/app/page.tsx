@@ -7,11 +7,19 @@ import {
   View,
   Document,
   StyleSheet,
-  PDFViewer,
   Image,
   Link,
   Font,
 } from "@react-pdf/renderer";
+import dynamic from "next/dynamic";
+
+const PDFViewer = dynamic(
+  () => import("@react-pdf/renderer").then((mod) => mod.PDFViewer),
+  {
+    ssr: false,
+    loading: () => <p>Loading...</p>,
+  }
+);
 
 Font.register({ family: "SpaceGrotesk", src: "/fonts/SpaceGrotesk-Bold.ttf" });
 
