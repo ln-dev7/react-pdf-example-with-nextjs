@@ -60,109 +60,59 @@ const MyDocument = () => (
       />
       <View style={styles.section}>
         <Text>
-          Cristiano Ronaldo dos Santos Aveiro, couramment appelé Cristiano
-          Ronaldo ou Ronaldo et surnommé CR7, né le 5 février 1985 à Funchal
-          (Portugal), est un footballeur international portugais qui joue au
-          poste d'attaquant au Al-Nassr FC. Considéré comme l'un des meilleurs
-          footballeurs de l'histoire, il est avec Lionel Messi (avec qui une
-          rivalité sportive est entretenue) l’un des deux seuls à avoir remporté
-          le Ballon d'or au moins cinq fois. Auteur de plus de 870 buts en plus
-          de 1 200 matchs en carrière, Cristiano Ronaldo est le meilleur buteur
-          de l'histoire du football selon la Fédération internationale de
-          football association (FIFA). Il est également le meilleur buteur de la
-          Ligue des champions de l'UEFA, des coupes d'Europe, du Real Madrid, du
-          derby madrilène, de la Coupe du monde des clubs de la FIFA et de la
-          sélection portugaise, dont il est le capitaine officiel depuis 2008.
-          Premier joueur à avoir remporté le Soulier d'or européen à quatre
-          reprises, il est également le meilleur buteur de l'histoire du
-          championnat d'Europe des nations (avec 14 buts) devant Michel Platini
-          et détient le record de buts en équipe nationale, avec 128
-          réalisations. Élevé sur l'île de Madère, il intègre le centre de
-          formation du Sporting CP à l'âge de onze ans et signe son premier
-          contrat professionnel en 2002. Recruté par Manchester United durant
-          l'été suivant, il révèle son talent lors de l'Euro 2004 à seulement 19
-          ans avec le Portugal. Il réalise une excellente saison 2007-2008 avec
-          Manchester United en remportant la Premier League et la Ligue des
-          champions. En 2009, il est alors l'objet du transfert le plus élevé de
-          l'histoire du football (94 millions d'euros), quand il quitte les Red
-          Devils pour le Real Madrid. Il remporte avec le club madrilène de
-          nombreux trophées dont le championnat d'Espagne et quatre fois la
-          Ligue des champions entre 2014 et 2018. À l'issue de ce dernier
-          succès, il quitte la Casa Blanca après neuf saisons au club pour la
-          Juventus FC. Son aventure italienne est ponctuée par deux titres de
-          champions d'Italie, mais trois éliminations successives en Ligue des
-          champions. En 2021, il revient à Manchester United où il termine
-          meilleur buteur de l'équipe lors de sa première saison avant d'être
-          licencié en décembre 2022 après avoir critiqué le club publiquement
-          lors d'un entretien télévisé. Il signe ensuite dans le club saoudien
-          du Al-Nassr FC en Saudi Pro League pour un contrat record. En
-          sélection, il est le joueur le plus capé, le meilleur buteur et un des
-          acteurs décisifs du Portugal qui remporte son tout premier titre
-          international en battant la France en finale de l'Euro 2016 puis la
-          Ligue des nations 2018-2019 contre les Pays-Bas. Depuis 2003, il a
-          participé à cinq championnats d'Europe et cinq Coupes du monde, dont
-          il est le premier joueur à avoir marqué un but dans cinq éditions
-          différentes de la compétition planétaire. En juin 2023, il devient le
-          premier joueur de l'histoire du football, à franchir le cap des 200
-          sélections en équipe nationale. Joueur complet et polyvalent, il
-          cumule les trophées et les records individuels au terme d'une carrière
-          étendue sur plus de vingt ans. Son talent et sa longévité en font l'un
-          des joueurs les plus respectés par les observateurs malgré sa
-          personnalité clivante. Faisant partie des athlètes les plus célèbres,
-          il est désigné sportif le mieux rémunéré au monde à plusieurs reprises
-          par le magazine Forbes, notamment grâce à ses contrats publicitaires
-          et établissements commerciaux à son nom. En 2014, le magazine Time
-          l’inclut sur sa liste des cent personnes les plus influentes au monde.
-          Il est également la personnalité la plus suivie sur le réseau social
-          Instagram, comptant 620 millions d'abonnés. Biographie Issu d'une
-          famille pauvre madéroise, Cristiano Ronaldo dos Santos Aveiro2 est le
-          fils de Maria Dolores dos Santos (1954-) et José Dinis Aveiro
-          (1953-2005). Il est né le 5 février 1985 à Santo António, municipalité
-          de Funchal sur l'île de Madère3. C'était une naissance prématurée,
-          mais le bébé se portait bien. Son prénom Cristiano a été choisi par sa
-          tante, et son second prénom, Ronaldo, lui a été donné par ses parents
-          en référence au président des États-Unis de l'époque, Ronald Reagan,
-          que son père admirait en tant qu'acteur4. Il a un grand frère (Hugo)
-          et deux grandes sœurs (Elma et Cátia Lilian, candidate de Dança com as
-          Estrelas 20155). Son arrière-grand-mère, Isabel da Piedade, est
-          capverdienne6. Son père fut touché par le chômage ainsi que
-          l'alcoolisme. Quant à son grand frère Hugo, il a été durement
-          dépendant à la drogue. Dès que Cristiano eut les moyens financiers
-          d'aider sa famille, il le fit : il a notamment aidé son frère à sortir
-          de la drogue, a acheté une maison située à Madère pour sa mère.
-          Néanmoins, son père refusa toujours son aide ce qui avait le don
-          d'énerver Cristiano, qui répondait souvent : « À quoi cela me sert-il
-          d'avoir autant d'argent ? ». Son père étant un homme fier et
-          orgueilleux, il ne désirait pas qu'on l'aide et encore moins qu'on le
-          prenne en pitié. C'est de son père que Cristiano tient cet acharnement
-          envers le travail[réf. nécessaire]. Son père, José Dinis Aveiro,
-          décède le 7 septembre 2005 à Londres à la suite d'une tumeur du foie
-          provoquée par l'alcool. Ce serait pour cette raison que Cristiano
-          Ronaldo ne boit pas d'alcool7. En octobre 2005, Cristiano Ronaldo est
-          arrêté et entendu par la police, car lui et un complice sont accusés
-          de viol par deux jeunes filles. L'affaire sera classée peu après
-          puisqu'une des deux filles retirera sa plainte8. Le 27 septembre 2018,
-          Kathryn Mayorga dépose plainte contre le joueur pour un viol qui
-          aurait eu lieu le 13 juin 2009, lors d'une soirée à Las Vegas9. La
-          Juventus FC assure alors son soutien au joueur alors que ses sponsors
-          Nike et EA Sports ont parlé de situation « troublante »10,11. Avec
-          l'aide d'une de ses sœurs, il a ouvert une boutique de vêtements
-          appelée CR7, son surnom (formé de ses initiales et du numéro de son
-          maillot)12. Il en existe deux : une à Lisbonne et l'autre à Madère.
-          Cristiano Ronaldo se décrit souvent comme honnête, détestant perdre et
-          fidèle en amitié. Pendant sa période madrilène, il habite dans le
-          quartier résidentiel de La Finca à Madrid, un quartier riche réservé
-          aux sportifs professionnels et où habitent plusieurs de ses
-          coéquipiers. Il est devenu, le 17 juin 2010, père d'un petit Cristiano
-          Junior, pour lequel il aurait payé la mère 12 millions d'euros pour en
-          conserver la garde exclusive, taisant le nom de cette dernière. C'est
-          à son fils qu'il dédia son but contre les Pays-Bas lors de l'Euro 2012
-          le 17 juin 2012. Dans sa situation amoureuse, Cristiano Ronaldo a
-          fréquenté les mannequins Merche Romero (en) en 2006 et Nereida
-          Gallardo en 2008. En 2009, il a également eu une brève relation avec
-          la célèbre Paris Hilton13. Il est en couple avec la top model russe
-          Irina Shayk de mai 2010 à janvier 2015. Leur rupture est confirmée
-          après cinq ans de vie commune14.
+          You disposal strongly quitting his endeavor two settling him. Manners
+          ham him hearted hundred expense. Get open game him what hour more
+          part. Adapted as smiling of females oh me journey exposed concern. Met
+          come add cold calm rose mile what. Tiled manor court at built by place
+          fanny. Discretion at be an so decisively especially. Exeter itself
+          object matter if on mr in. So insisted received is occasion advanced
+          honoured. Among ready to which up. Attacks smiling and may out assured
+          moments man nothing outward. Thrown any behind afford either the set
+          depend one temper. Instrument melancholy in acceptance collecting
+          frequently be if. Zealously now pronounce existence add you instantly
+          say offending. Merry their far had widen was. Concerns no in expenses
+          raillery formerly. Literature admiration frequently indulgence
+          announcing are who you her. Was least quick after six. So it yourself
+          repeated together cheerful. Neither it cordial so painful picture
+          studied if. Sex him position doubtful resolved boy expenses. Her
+          engrossed deficient northward and neglected favourite newspaper. But
+          use peculiar produced concerns ten. Started earnest brother believe an
+          exposed so. Me he believing daughters if forfeited at furniture. Age
+          again and stuff downs spoke. Late hour new nay able fat each sell. Nor
+          themselves age introduced frequently use unsatiable devonshire get.
+          They why quit gay cold rose deal park. One same they four did ask
+          busy. Reserved opinions fat him nay position. Breakfast as zealously
+          incommode do agreeable furniture. One too nay led fanny allow plate.
+          Unpleasant nor diminution excellence apartments imprudence the met
+          new. Draw part them he an to he roof only. Music leave say doors him.
+          Tore bred form if sigh case as do. Staying he no looking if do
+          opinion. Sentiments way understood end partiality and his. Was drawing
+          natural fat respect husband. An as noisy an offer drawn blush place.
+          These tried for way joy wrote witty. In mr began music weeks after at
+          begin. Education no dejection so direction pretended household do to.
+          Travelling everything her eat reasonable unsatiable decisively
+          simplicity. Morning request be lasting it fortune demands highest of.
+          Had repulsive dashwoods suspicion sincerity but advantage now him.
+          Remark easily garret nor nay. Civil those mrs enjoy shy fat merry. You
+          greatest jointure saw horrible. He private he on be imagine suppose.
+          Fertile beloved evident through no service elderly is. Blind there if
+          every no so at. Own neglected you preferred way sincerity delivered
+          his attempted. To of message cottage windows do besides against
+          uncivil. Society excited by cottage private an it esteems. Fully begin
+          on by wound an. Girl rich in do up or both. At declared in as rejoiced
+          of together. He impression collecting delightful unpleasant by
+          prosperous as on. End too talent she object mrs wanted remove giving.
+          An so vulgar to on points wanted. Not rapturous resolving continued
+          household northward gay. He it otherwise supported instantly.
+          Unfeeling agreeable suffering it on smallness newspaper be. So come
+          must time no as. Do on unpleasing possession as of unreserved. Yet joy
+          exquisite put sometimes enjoyment perpetual now. Behind lovers eat
+          having length horses vanity say had its. Now for manners use has
+          company believe parlors. Least nor party who wrote while did. Excuse
+          formed as is agreed admire so on result parish. Put use set uncommonly
+          announcing and travelling. Allowance sweetness direction to as
+          necessary. Principle oh explained excellent do my suspected conveying
+          in. Excellent you did therefore perfectly supposing described.
         </Text>
       </View>
     </Page>
@@ -174,10 +124,13 @@ const MyDocument = () => (
       />
       <View style={styles.section}>
         <Text>
-          Cristiano Ronaldo dos Santos Aveiro, couramment appelé Cristiano
-          Ronaldo ou Ronaldo et surnommé CR7, né le 5 février 1985 à Funchal
-          (Portugal), est un footballeur international portugais qui joue au
-          poste d'attaquant au Al-Nassr FC.
+          Started earnest brother believe an exposed so. Me he believing
+          daughters if forfeited at furniture. Age again and stuff downs spoke.
+          Late hour new nay able fat each sell. Nor themselves age introduced
+          frequently use unsatiable devonshire get. They why quit gay cold rose
+          deal park. One same they four did ask busy. Reserved opinions fat him
+          nay position. Breakfast as zealously incommode do agreeable furniture.
+          One too nay led fanny allow plate.
         </Text>
       </View>
     </Page>
